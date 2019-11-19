@@ -23,6 +23,7 @@ A simple CBOR handler that does two things:
 1. Git clone: `git clone https://github.com/abdelrahman146/cbor_handler`
 2. go the dist directory: `cd cbor_handler/dist/main`
 3. run the executable file: `main.exe`
+4. If the executable file doesn't work, please download [python](https://www.python.org/) and then run on CMD `python main.py`
 
 ## How to use the tool
 The cbor handler is a CLI tool.
