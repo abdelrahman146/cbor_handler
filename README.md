@@ -27,7 +27,7 @@ A simple CBOR handler that does two things:
 4. install dependencies `pip install -r requirements.exe`
 5. start the tool by running `python cbor_handler.py`
 
-** for windows users**
+**for windows users**
 
 Go the dist directory: `cd cbor_handler/dist/CborHandler`
 
