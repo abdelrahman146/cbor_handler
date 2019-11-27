@@ -18,12 +18,20 @@ A simple CBOR handler that does two things:
 ## Programming language
 - the tool was built and tested on python 3.8
 
-## How To open the tool
+## How To run the tool
 
-1. Git clone: `git clone https://github.com/abdelrahman146/cbor_handler`
-2. go the dist directory: `cd cbor_handler/dist/main`
-3. run the executable file: `main.exe`
-4. If the executable file doesn't work, please download [python](https://www.python.org/) and then run on CMD `python main.py`
+1. Install [python 3.8](https://www.python.org/)  (or any version that is >3.4 ) and make sure that python/pip is added to environment variables.
+
+2. Clone the repository: `git clone https://github.com/abdelrahman146/cbor_handler`
+3. go to the cloned directory `cd cbor_handler`
+4. install dependencies `pip install -r requirements.exe`
+5. start the tool by running `python cbor_handler.py`
+
+** for windows users**
+
+Go the dist directory: `cd cbor_handler/dist/CborHandler`
+
+Run the executable file: `cbor_handler.exe`
 
 ## How to use the tool
 The cbor handler is a CLI tool.
