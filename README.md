@@ -24,7 +24,7 @@ A simple CBOR handler that does two things:
 
 2. Clone the repository: `git clone https://github.com/abdelrahman146/cbor_handler`
 3. go to the cloned directory `cd cbor_handler`
-4. install dependencies `pip install -r requirements.exe`
+4. install dependencies `pip install -r requirements.txt`
 5. start the tool by running `python cbor_handler.py`
 
 **for windows users**
