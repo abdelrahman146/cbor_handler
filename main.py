@@ -84,8 +84,3 @@ def start_tool():
                 print(messages.tool_update_done)
                 print(helpers.to_hex(result))
 
-
-# main
-if __name__ == '__main__':
-    print(messages.tool_header)
-    start_tool()
